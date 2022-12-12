@@ -4,7 +4,7 @@ import javafx.scene.control.*;
 import javafx.scene.layout.*;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
-
+import javafx.stage.Stage;
 public class SeatingArrangementApplication extends Application {  	
     public static final String BLANK = ""; 	 	
     GridPane grid; 	
